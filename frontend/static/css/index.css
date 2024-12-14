@@ -14,7 +14,7 @@ body {
     background: #222222;
 }
 
-.nav__link {
+.nav-link {
     display: block;
     padding: 12px 18px;
     text-decoration: none;
@@ -22,7 +22,7 @@ body {
     font-weight: 500;
 }
 
-.nav__link:hover {
+.nav-link:hover {
     background: rgba(255, 255, 255, 0.05);
 }
 
